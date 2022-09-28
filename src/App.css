@@ -1,0 +1,40 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .App h1 {
+    font-size: 2rem;
+  }
+  
+  .App h3 {
+    color: rgb(209, 102, 148);
+  }
+  
+  .buttonClass {
+  
+    background: rgb(69, 69, 202);
+    color: white;
+    border-radius: 0.5rem;
+    border: none;
+    font-size: 1rem;
+    padding: 0.7rem 1.5rem;
+    margin: 1rem 0.5rem;
+    cursor: pointer;
+  
+  }
+  
+  .listClass{
+      list-style: none;
+      padding:0.8rem 0.5rem;
+      border: 1px solid #196fd7;
+      width: 70%;
+      margin: 1rem auto;
+      border-radius:0.5rem;
+  
+    
+  }
+  
+  .li-items{
+    margin-bottom: 0.5rem;
+  }

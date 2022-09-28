@@ -1,0 +1,1 @@
+This is the Travel recomendation application, where you can find the best places to visit in different states, as well as this shows the best time or season to visit that place
